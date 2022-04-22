@@ -1,0 +1,13 @@
+/*
+Theme Name: mama
+Theme URI: https://mama.apcomm.fr 
+Author: Apcomm
+Description: Mon premier thème !
+Author URI: https://apcomm.fr  
+Requires at least: WordPress 5.0 
+Version: 1.0
+*/
+
+*{
+    background-color: aqua;
+}
